@@ -21,10 +21,10 @@ please read the [Code of Conduct](./code-of-conduct.md) and follow the direction
 
 ## Recommended Communication Style
 
-- Always leave screenshots for visual changes.
-- Always leave a detailed description in the pull request. Leave nothing ambiguous for the reviewer.
-- Always review your code first. Run the project locally and test it before requesting a review.
-- Always communicate in the GitHub repository. Whether in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
+- 1. Always leave screenshots for visual changes.
+- 2. Always leave a detailed description in the pull request. Leave nothing ambiguous for the reviewer.
+- 3. Always review your code first. Run the project locally and test it before requesting a review.
+- 4. Always communicate in the GitHub repository. Whether in the issue or the pull request, keeping the lines of communication open and visible to everyone on the team helps everyone around you.
 
 ## Issues
 
